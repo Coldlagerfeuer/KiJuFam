@@ -1,11 +1,11 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "KiJuFam",
+    "name": "Kinder Jugend Familienberatung",
     "version": "5.1.4",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "Wir möchten möglichst alle Umstände die dein Leben beeinträchtigen abdecken und dir dabei helfen, dein Leben wieder lebenswert zu machen.",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,15 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "http://kijufam.de/",
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "KiJuFam Gbr",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Nils Frantzen"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/Coldlagerfeuer/KiJuFam.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
